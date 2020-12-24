@@ -12,12 +12,12 @@
     &nbsp;ykshenshutao
 </a>
 <br/>
-<a href="mailto:aman.atg001@gmail.com">
+<a href="mailto:sstbage@gmail.com">
   <img align="left" alt="SHEN's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   &nbsp;sstbage@gmail.com
 </a>
 <br/>
-<a href="https://twitter.com/aman_atg">
+<a href="https://cybertaotao.com">
   <img align="left" alt="SHEN Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firefoxbrowser.svg" />
   &nbsp;https://cybertaotao.com
 </a>
