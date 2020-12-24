@@ -117,7 +117,7 @@
     
     [Others] 
         DApp based on Ethereum: Online Love Lock 
-        Personal website: Nginx, Haproxy, VPN, DDNS, and some tiny Programs (Microservice with docker)
+        Personal website: Nginx, Haproxy, VPN, DDNS, and tiny Programs (Microservice with docker)
         Basic machine learning: kNN, Decision Tree, MAP, MLE, kMean...
         Patent: CN107386541A
         More: github (sstshenshutao)
