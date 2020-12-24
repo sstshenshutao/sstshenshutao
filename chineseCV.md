@@ -1,4 +1,4 @@
-## [Shutao SHEN](https://cybertaotao.com) 👨‍💻
+## [沈书涛](https://cybertaotao.com) 👨‍💻
 <ul>
 <li><a href="https://github.com/sstshenshutao/">
   <img align="left" alt="SHEN's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
@@ -25,31 +25,31 @@
 
 
 
-### 👣 Education
-- [09.2012 - 07.2017]  Dalian university of technology (211, 985, Double First Class)
+### 👣 教育背景
+- [09.2012 - 07.2017]  大连理工大学 (211, 985, 双一流)
     ```
-    📖 Bachelor of Architecture (B. Arch.) 
-    📖 Minor Certificate of Computer Science and Technology
+    📖 建筑学本科学位 (B. Arch.) 
+    📖 计算机科学与技术辅修毕业证书
     ```
-- [09.2015 - 09.2016] Technical University of Darmstadt (Germany)
+- [09.2015 - 09.2016] 达姆斯塔特工业大学 (德国)
     ```
-    🚀📖 Exchange Student
+    🚀📖 交换生一学年
     ```
-- [09.2017 - 09.2018] Technical University of Darmstadt (Germany)
+- [09.2017 - 09.2018] 达姆斯塔特工业大学 (德国TU9名校)
     ```
-    📖 Bachelor Student of Informatics, 2 Semesters
+    📖 本科学生，计算机专业，就读2学期后转校
     ```
-- [09.2018 until now] Technical University of Munich
+- [09.2018 至今] 慕尼黑工业大学 (德国排名第一)
     ```
-    📖 Bachelor of Informatics (Bsc.)
-    📖 Master Student of Informatics
+    📖 计算机本科学位 (Bsc.)
+    📖 计算机硕士在读
     ```
     
 
 * * *
 
 
-### 🛠️ Languages and Tools:
+### 🛠️ 专业技能:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs) ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue.js) ![VUEX](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=Vue.js) ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 
 - ![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON) ![JSON Schema](https://img.shields.io/badge/-JSON_Schema-black?style=flat-square&logo=JSON) ![OpenAPI](https://img.shields.io/badge/-OpenAPI-black?style=flat-square&logo=OpenAPI-Initiative) ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=Swagger)
@@ -83,44 +83,44 @@
 
 * * *
 
-### ✨ Experience
+### ✨ 项目经验
     
-- [07.2020 - 10.2020] Tencent Holdings Ltd
+- [07.2020 - 10.2020] 腾讯
     ```
-    Summer Internship 
-    Back-end development of online mobile games
+    暑期实习生
+    联机手游后台开发
     DevOps, Opentelemetry, GRPC, GM-tools
     ```
 
-- [03.2020 - 06.2020] 2020 Tencent Capstone Project
+- [03.2020 - 06.2020] 2020 腾讯Capstone项目
     ```
-    Online game back-end cloud native practice
+    多人联网游戏云原生实践
     GRPC, WebSocket, Github Actions, Kubernetes, Token, Microservices
     ```
 
-- [12.2019 - 06.2020] TUM Cloud-Columba Website
+- [12.2019 - 06.2020] TUM Cloud-Columba网站
     ```
-    Working Student
-    Documentation(I/O) language design
-    Online compiler implementation
+    学生工
+    复杂文档(I/O)语言设计
+    在线编译器实现
     ```
 
-- University Labs
+- 校内实践项目
     ```
-    [04.2019 - 07.2019] TUM "iLab" Network Lab
+    [04.2019 - 07.2019] TUM "iLab" Network 实践课题
         Static/Dynamic Routing, DNS, DHCP Prefix delegation, packet filtering, TCP BBR, onion
         Network security: ARP spoofing, IPv6 SLAAC DoS Attack, half-open scanning
     
-    [12.2019 - 06.2020] Python Labs
+    [12.2019 - 06.2020] Python 实践课题
         Internet Measurement
         Crowds Simulation
     
     [Others] 
-        DApp based on Ethereum: Online Love Lock 
-        Personal website: Nginx, Haproxy, VPN, DDNS, and tiny Programs (Microservice with docker)
-        Basic machine learning: kNN, Decision Tree, MAP, MLE, kMean...
-        Patent: CN107386541A
-        More: github (sstshenshutao)
+        基于以太坊的DApp: Online Love Lock 
+        个人网站: Nginx, Haproxy, VPN, DDNS, and tiny Programs (Microservice with docker)
+        基础机器学习: kNN, Decision Tree, MAP, MLE, kMean...
+        专利: CN107386541A
+        更多: github (sstshenshutao)
     ```
 
 <!-- ### 🌱 Additional -->
