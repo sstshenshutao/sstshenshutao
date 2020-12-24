@@ -121,7 +121,7 @@
     ```
     Summer Internship 
     Back-end development of online mobile games
-    DevOps, Opentelemetry, GRPC
+    DevOps, Opentelemetry, GRPC, GM-tools
     ```
 
 - [03.2020 - 06.2020] 2020 Tencent Capstone Project
