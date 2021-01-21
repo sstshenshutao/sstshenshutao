@@ -112,8 +112,8 @@
         Network security: ARP spoofing, IPv6 SLAAC DoS Attack, half-open scanning
     
     [12.2019 - 06.2020] Python Labs
-        Internet Measurement
-        Crowds Simulation
+        Internet Measurement: multiprocessing, pandas, sqlite3
+        Crowds Simulation: machine learning and embedding algorithms, VAE(tensorflow)
     
     [Others] 
         DApp based on Ethereum: Online Love Lock 

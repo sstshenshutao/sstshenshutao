@@ -112,8 +112,8 @@
         Network security: ARP spoofing, IPv6 SLAAC DoS Attack, half-open scanning
     
     [12.2019 - 06.2020] Python 实践课题
-        Internet Measurement
-        Crowds Simulation
+        Internet Measurement: multiprocessing, pandas, sqlite3 等
+        Crowds Simulation: 机器学习, 降维算法, VAE(tensorflow) 等
     
     [Others] 
         基于以太坊的DApp: Online Love Lock 
