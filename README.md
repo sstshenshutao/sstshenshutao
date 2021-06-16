@@ -100,9 +100,22 @@
 
 - [12.2019 - 06.2020] TUM Cloud-Columba Website
     ```
-    Working Student
+    Bachelor Thesis and Working Student
     Documentation(I/O) language design
     Online compiler implementation
+    ```
+
+- [03.2021 - 06.2021] FleeTUM Website
+    ```
+    Campus Project
+    Kubernetes, PHP, React.js, Google Map API, Airflow, CosmosDB
+    IoT Website & Data Flow & Map
+    ```
+
+- [03.2021 - 08.2021] Evaluation of Discovery and Binding Mechanisms for QUIC Proxys
+    ```
+    Master Thesis
+    ongoing
     ```
 
 - University Labs
@@ -113,7 +126,7 @@
     
     [12.2019 - 06.2020] Python Labs
         Internet Measurement: multiprocessing, pandas, sqlite3
-        Crowds Simulation: machine learning and embedding algorithms, VAE(tensorflow)
+        Crowds Simulation: machine learning and embedding algorithms, VAE(tensorflow), Koopman Operator
     
     [Others] 
         DApp based on Ethereum: Online Love Lock 
