@@ -19,6 +19,11 @@
   <img align="left" alt="SHEN Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firefoxbrowser.svg" />
   &nbsp;https://cybertaotao.com
 </a>
+<li><a href="https://github.com/sstshenshutao/sstshenshutao/blob/master/chineseCV.md">
+  <img align="left" alt="SHEN Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />
+  &nbsp;中文简历
+</a>
+
 </ul>
 
 * * *
@@ -88,7 +93,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite) 
 
 
-- Well-known Techs 
+- Well-known Techs  
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=oracle) ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin) ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=Spring) ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSON-Web-Tokens) ![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=Gradle) ![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=Apache-Maven)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![numpy](https://img.shields.io/badge/-numpy-black?style=flat-square&logo=NumPy) ![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas) ![request](https://img.shields.io/badge/-request-black?style=flat-square&logo=Python) ![multiprocessing](https://img.shields.io/badge/-multiprocessing-black?style=flat-square&logo=Python) 
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C) ![MIPS](https://img.shields.io/badge/-MIPS-black?style=flat-square) ![Intel Assembly](https://img.shields.io/badge/-Intel_Assembly-black?style=flat-square)
